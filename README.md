@@ -24,15 +24,6 @@ This project is part of **The Complete JavaScript Course by [Jonas Schmedtmann](
 - 🍲 **Forkify API** – Provides real recipe data
 - 💾 **LocalStorage** – Persists user bookmarks
 
----
+```
 
-## 💻 Getting Started
-
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/forkify.git
-
-# Navigate to the project fold
 ```
