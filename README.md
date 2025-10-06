@@ -23,3 +23,4 @@ This project is part of **The Complete JavaScript Course by [Jonas Schmedtmann](
 - ⚙️ **Parcel** – Development and build bundler
 - 🍲 **Forkify API** – Provides real recipe data
 - 💾 **LocalStorage** – Persists user bookmarks
+- x
